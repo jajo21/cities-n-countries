@@ -1,6 +1,6 @@
 # Städer och Länder
 ## Instruktioner
-1. Ladda ner repot från https://github.com/jajo21/inloggningssida
+1. Ladda ner repot från https://github.com/jajo21/cities-n-countries
 2. Leta upp valfri terminal och utgå från nerladdad mapp.
 3. Absolut enklaste steget är att öppna applikationen med VS-code och Live Server
 
