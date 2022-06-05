@@ -1,11 +1,11 @@
-# Städer och Länder
+# Städer och Länder - Oktober 2021
 ## Instruktioner
 1. Ladda ner repot från https://github.com/jajo21/cities-n-countries
 2. Leta upp valfri terminal och utgå från nerladdad mapp.
 3. Absolut enklaste steget är att öppna applikationen med VS-code och Live Server
 
 ## Syfte - YH-utbildning: Webbutvecklare .NET
-* Inlämningsuppgift i kursen Webbapplikation MVP - September 2021
+* Inlämningsuppgift i kursen Webbapplikation MVP - Oktober 2021
 * Beskrivning: Inlämningen består i att göra en sida där dynamisk inhämtning och lagring av data används för att visualisera användarens besökta städer och länder.
 * Resultat: 100/100 (VG)
 
